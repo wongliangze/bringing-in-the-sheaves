@@ -1,0 +1,21 @@
+1. Set up blog with Jekyll
+http://joshualande.com/jekyll-github-pages-poole/
+
+2. Configure blog to use Sagecell
+http://sagecell.sagemath.org/static/about.html?v=15adefe8b7e89fcf49eda7af5303abd4
+
+3. Configure blog to use reveal.js
+http://www.sitepoint.com/creating-slick-html-presentations-using-reveal-js/
+
+4. Combine!
+http://vincent-knight.com/unpeudemath/code/2014/07/19/Using-Python-and-Github-pages-to-distribute-my-conference-talks/
+
+Example slides:
+http://sagecell.sagemath.org/static/amsjointslides-2013/index.html
+
+SAGE includes "R, Octave, Python, Cython, GAP, Pari, Macaulay2, Singular, and more!"
+
+More:
+-sagemath cloud
+-sage cell server
+-setting up your own sage cell server
